@@ -1,0 +1,12 @@
+body {
+    background-color: bisque;
+}
+.main {
+    display: block;
+    max-width: 1024;
+    margin: 0 auto;
+    text-align: center;
+}
+.avatar {
+    width: 20%;
+}
