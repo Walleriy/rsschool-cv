@@ -13,7 +13,7 @@
 >Or just let it slip?
 >Yo
 > Eminem, Lose yourself
-![My bike](photo.jpg =400x)
+![My bike](photo.jpg =400x200)
 4. HTML, CSS, JS, Jquery, Java, PostgreSQL
 5. Code: `System.Out.Println('Hello world!');`
 6. 1. Student in lviv polytechnic national university, computer science.
