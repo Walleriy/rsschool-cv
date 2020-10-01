@@ -1,3 +1,4 @@
+# CV
 1. **Walleriy Stepanenko**
 2. 1. Phone number: **+380 95 02 18 255**
    2. [Telegram:](https://web.telegram.org/#/im?p=@FreeRider26)
@@ -13,7 +14,7 @@
 >Or just let it slip?
 >Yo
 > Eminem, Lose yourself
-![My bike](blob:https://web.telegram.org/33c0ffc8-ede8-499c-ba89-0da9f7bd0aa0)
+<img src="photo.jpg" alt="My bike" width="350px">
 4. HTML, CSS, JS, Jquery, Java, PostgreSQL
 5. Code: `System.Out.Println('Hello world!');`
 6. 1. Student in lviv polytechnic national university, computer science.
