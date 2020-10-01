@@ -13,7 +13,7 @@
 >Or just let it slip?
 >Yo
 > Eminem, Lose yourself
-![My bike](blob:https://web.telegram.org/33c0ffc8-ede8-499c-ba89-0da9f7bd0aa0)
+![My bike](photo.jpg)
 4. HTML, CSS, JS, Jquery, Java, PostgreSQL
 5. Code: `System.Out.Println('Hello world!');`
 6. 1. Student in lviv polytechnic national university, computer science.
